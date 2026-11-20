@@ -1,12 +1,5 @@
 > [!IMPORTANT]
-> **This is a fork** of [WilliamJohnDavisIII/omarchy-sundown](https://github.com/WilliamJohnDavisIII/omarchy-sundown), with changes of its own. Two have been offered upstream:
->
-> - [#1](https://github.com/WilliamJohnDavisIII/omarchy-sundown/pull/1): the extra-warm shader script runs only while that shader is on, not on every 15-second check (about 29,000 fewer processes a day).
-> - [#2](https://github.com/WilliamJohnDavisIII/omarchy-sundown/pull/2): the mildest temperature is 5500K instead of 4500K.
->
-> The rest are only in this fork so far: starting before (or after) sunset, fade lengths you choose, pausing for fullscreen apps and apps you pick, and looking at `hyprsunset` about once a minute instead of every 15 seconds. Several of these ideas come from [Dusk](https://github.com/ReidenXerx/omarchy-dusk); see [Credits](#credits).
->
-> Install this fork with `omarchy plugin add https://github.com/cwilliams5/omarchy-sundown.git --enable`.
+> **This fork has moved on.** It grew into [Locus](https://github.com/cwilliams5/omarchy-locus), a night light that follows the sun, with its own name and history. This repository stays only to carry two pull requests to the original Sundown ([#1](https://github.com/WilliamJohnDavisIII/omarchy-sundown/pull/1) and [#2](https://github.com/WilliamJohnDavisIII/omarchy-sundown/pull/2)).
 
 # Sundown
 
